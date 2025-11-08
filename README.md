@@ -21,26 +21,8 @@ This system uses 8 specialized AI agents to provide intelligent property search,
 
 ---
 
-## System A[text](.)rchitecture
-
-```
-User Interface (Streamlit)
-         ↓
-   Agent Layer
-   ├── Query Router
-   ├── Task Planner
-   ├── Structured Data Agent
-   ├── RAG Agent
-   ├── Web Research Agent
-   ├── Report Generation Agent
-   ├── Renovation Agent
-   └── Memory Manager
-         ↓
-    Data Layer
-    ├── MySQL (Structured Data)
-    ├── Qdrant (Vector Embeddings)
-    └── JSON (User Memory)
-```
+## System Architecture
+<img width="3387" height="1151" alt="Model_Architecture (2)" src="https://github.com/user-attachments/assets/05759a26-5391-4cc8-9075-65ee1a8257c6" />
 
 ---
 
