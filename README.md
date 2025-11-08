@@ -39,10 +39,6 @@ For DATABASE_SCHEMA.md go to docs->DATABASE_SCHEMA.md
 
 For DEPLOYMENT.md go to docs->DEPLOYMENT.md
 
-For the task presentation go to docs->Real_Estate_Presentation.pptx
-
-For the video walkthrough go to docs->Process_Walkthrough.mp4
-
 
 ## Installation
 
